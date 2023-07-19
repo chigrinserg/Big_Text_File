@@ -171,4 +171,3 @@ int main()
 }
 //Elapsed time : 5353.36 sec
 
-//randomDigits_3[i] = 200 + rand() % 101; // 200 ... 300
